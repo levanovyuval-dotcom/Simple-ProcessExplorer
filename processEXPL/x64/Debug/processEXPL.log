@@ -1,0 +1,12 @@
+﻿  processEXPL.cpp
+C:\Users\owner\source\repos\processEXPL\processEXPL\processEXPL.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\owner\source\repos\processEXPL\processEXPL\processEXPL.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\owner\source\repos\processEXPL\processEXPL\processEXPL.cpp(25,9): warning C4005: 'THREAD_SUSPEND_RESUME': macro redefinition
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(12711,9):
+      see previous definition of 'THREAD_SUSPEND_RESUME'
+  
+C:\Users\owner\source\repos\processEXPL\processEXPL\processEXPL.cpp(106,84): warning C4244: 'argument': conversion from 'int64_t' to 'DWORD', possible loss of data
+C:\Users\owner\source\repos\processEXPL\processEXPL\processEXPL.cpp(205,84): warning C4244: 'argument': conversion from 'int64_t' to 'DWORD', possible loss of data
+C:\Users\owner\source\repos\processEXPL\processEXPL\processEXPL.cpp(326,6): warning C4101: 'targetPID': unreferenced local variable
+C:\Users\owner\source\repos\processEXPL\processEXPL\processEXPL.cpp(489,6): warning C4101: 'targetPID': unreferenced local variable
+  processEXPL.vcxproj -> C:\Users\owner\source\repos\processEXPL\x64\Debug\processEXPL.exe
