@@ -11,3 +11,5 @@ Live Monitoring & Sorting: Automatically tracks active processes and dynamically
 Full Process Control: Quickly find specific processes by name, and easily suspend (pause), resume, or kill them straight from your keyboard.
 
 Deep Properties Inspection: Dive into any specific process to uncover detailed information, including its exact file path, creation time, active threads (with their priorities), and a full list of loaded modules (DLLs).
+
+press 's' to open menu!
